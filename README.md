@@ -33,4 +33,4 @@ Analyze the situation and recommend strategies for a successful transition to on
 The data was analyzed using a relational database management system and PostgreSQL.
 
 ## Visualization
-All visualizations were created in Tableau Public and may be viewed in the attached Tableau Workbook.
+All visualizations were created in Tableau Public and may be viewed in the attached [Tableau Workbook](https://public.tableau.com/views/Rockbusterssalesbyregion/Sheet8?:language=en-US&:display_count=n&:origin=viz_share_link).
